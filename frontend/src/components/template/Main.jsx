@@ -6,8 +6,10 @@ export default function Main(props) {
     return (
         <React.Fragment>
             <Header {...props}/>
-            <main className="content">
-                Conteúdo
+            <main className="content content-fluid">
+                    <div className="p-3 m-3">
+                        {props.children}
+                    </div>
             </main>
         </React.Fragment>
     )

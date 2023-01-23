@@ -1,4 +1,5 @@
 import React from "react";
+import './Nav-item.css'
 
 export default function NavItem(props) {
     return (        
