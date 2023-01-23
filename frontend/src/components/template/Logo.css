@@ -3,8 +3,8 @@ aside.logo {
     justify-content: center;
     align-items: center;
     background-color: #00ffbe;
-
     overflow: hidden;
+    border-bottom: 1px solid #555;
 }
 
 aside.logo img {
