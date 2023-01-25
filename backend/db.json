@@ -1,11 +1,14 @@
 {
-    "users": [{
-        "id": 1,
-        "nome": "Richard de Aguiar",
-        "email": "richard_aguiar.19@hotmail.com"
-    }, {
-        "id": 2,
-        "nome": "Susana de Aguiar",
-        "email": "susanaaguiar7@gmail.com"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Richard de Aguiar",
+      "email": "richard_aguiar.19@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Susana de Aguiar",
+      "email": "susanaaguiar7@gmail.com"
+    }
+  ]
 }
