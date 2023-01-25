@@ -1,3 +1,5 @@
 aside nav a {
     border-bottom: 1px solid #555;
+    border-top: 1px solid #555;
+    margin-top: 7px;
 }

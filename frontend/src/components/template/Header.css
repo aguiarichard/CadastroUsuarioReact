@@ -3,7 +3,6 @@ header.header {
     padding: 0 15px;
     overflow: hidden;
     white-space: nowrap;
-    box-shadow: 0 0 15px #0004;
 }
 
 header.header h1 {
