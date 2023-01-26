@@ -51,3 +51,21 @@ main.content {
 footer.footer {
     grid-area: footer;
 }
+
+@media (max-width: 768px) {
+    .app {
+        grid-template-columns: 1fr;
+
+        grid-template-rows: 
+        var(--header-height)
+        100px
+        1fr
+        var(--footer-height);
+
+        grid-template-areas:
+            "logo"
+            "menu"
+            "content"
+            "footer"
+    }
+}

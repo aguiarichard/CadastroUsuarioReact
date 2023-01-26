@@ -2,6 +2,12 @@
     margin-top: 30px;
 }
 
+@media (max-width: 768px) {
+    .menu {
+        margin: 0;
+    }
+}
+
 .menu a {
     display: block;
     color: #fff;
